@@ -74,7 +74,7 @@ This system improves the process by:
 
 ## 🏗️ System Architecture
 
-![Architecture](screenshots/arch.jpg)
+![Architecture](screenshots/Arch.png)
 
 ---
 
