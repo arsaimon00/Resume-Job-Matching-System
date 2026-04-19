@@ -82,19 +82,21 @@ This system improves the process by:
 
 ### 🏠 Home Page
 
-![Home](screenshots/home.png)
+![Home](screenshots/HOME1.png)
+![](screenshots/HOME2.png)
 
 ### 📊 Results Table
 
-![Results](screenshots/results.png)
+![Results](screenshots/RESULT.png)
 
 ### 🏆 Top 5 Candidates
 
-![Top5](screenshots/top5.png)
+![Top5](screenshots/TOP5.png)
 
 ### 📈 Graph Visualizations
 
-![Graphs](screenshots/graphs.png)
+![Graphs](screenshots/MODELWISE.png)
+![Graphs](screenshots/LASTG.png)
 
 ---
 
@@ -132,13 +134,15 @@ This system improves the process by:
 ├── utils.py        # Text extraction & preprocessing
 ├── requirements.txt
 ├── README.md
-├── assets/
-│   └── architecture.png
 └── screenshots/
-    ├── home.png
-    ├── results.png
-    ├── top5.png
-    └── graphs.png
+    ├── Arch.png
+    ├── HOME1.png
+    ├── HOME2.png
+    ├── RESULT.png
+    ├── TOP5.png
+    ├── LASTG.png
+    └── MODELWISE.png
+
 ```
 
 ---
