@@ -150,7 +150,7 @@ This system improves the process by:
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/arsaimon00/Resume-Job-Matching-System.git
 cd repo-name
 pip install -r requirements.txt
 ```
