@@ -39,18 +39,18 @@ This system improves the process by:
 
 ## 🚀 Features
 
-* 📥 Upload multiple resumes (PDF, DOCX, TXT)
-* 📝 Enter job description
-* 🔍 Automatic text extraction & preprocessing
-* 🤖 Multi-model similarity:
+* Upload multiple resumes (PDF, DOCX, TXT)
+* Enter job description
+* Automatic text extraction & preprocessing
+* Multi-model similarity:
 
   * TF-IDF
   * Word2Vec
   * Sentence-BERT
-* 📊 Final combined scoring system
-* 🏆 Top 5 candidate selection
-* 📈 Interactive visualizations
-* 🎨 Clean and modern UI
+* Final combined scoring system
+* Top 5 candidate selection
+* Interactive visualizations
+* Clean and modern UI
 
 ---
 
@@ -102,15 +102,15 @@ This system improves the process by:
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Language
+### Programming Language
 
 * Python
 
-### ⚙️ Framework
+### Framework
 
 * Streamlit
 
-### 📚 Libraries
+### Libraries
 
 * pandas
 * numpy
@@ -151,7 +151,7 @@ This system improves the process by:
 
 ```bash
 git clone https://github.com/arsaimon00/Resume-Job-Matching-System.git
-cd repo-name
+cd Resume-Job-Matching-System
 pip install -r requirements.txt
 ```
 
@@ -167,10 +167,10 @@ streamlit run app.py
 
 ## 📊 Output
 
-* 📋 Table showing similarity scores for all resumes
-* 🏆 Top 5 ranked candidates
-* 📈 Model-wise comparison graph
-* 📊 Final score visualization
+* Table showing similarity scores for all resumes
+* Top 5 ranked candidates
+* Model-wise comparison graph
+* Final score visualization
 
 ---
 
